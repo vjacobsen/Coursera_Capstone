@@ -3,7 +3,7 @@
 
   <img src="https://github.com/vjacobsen/Coursera_Capstone/raw/master/Images/Screen%20Shot%202020-04-11%20at%2012.47.05%20PM.png" alt="" width="300" height="175">
 
-This project will look at defining the key differences and commonalities across top US markets, based on the prevalence of beer focused entertainment venues. The focus of the project is to establish a distinction between neighborhoods within the most populous US cities, based on their demographical profile and beer venue occurrence at neighborhood level. A few potential questions this project hopes to answer are:  
+This project will look at defining the key differences and commonalities across top US markets, based on the prevalence of beer focused entertainment venues. The focus of the project is to establish a distinction between neighborhoods within the most populous US cities, based on their demographical profile and beer venue occurrence at neighborhood level. Some questions this project aims to answer include:  
 
 -	Which age group is more prevalent in neighborhoods with a high ratio of beer venues?  
 - Which neighborhoods/markets have a high prevalence of beer venues?  
